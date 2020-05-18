@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jest": ""
+    "jest": "^26.0.1"
   }
 }
